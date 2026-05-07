@@ -14,7 +14,12 @@ website:
   repo-actions: [issue]
   navbar:
     background: primary
+    left: 
+      - text: "Products"
+        href: products.qmd
     right: 
+      - text: "People"
+        href: people.qmd
       - icon: github
         href: https://github.com/global-river-chem/global-river-chem.github.io
   page-footer: 
