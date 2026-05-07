@@ -4,7 +4,6 @@
 
 # Session Data files
 .RData
-.RDataTmp
 
 # User-specific files
 .Ruserdata
@@ -39,11 +38,20 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
+# Mac stuff
+.DS_Store
+
+# Project file
+*.Rproj
+
+# Microsoft Office partial files
+~$*.pptx
+~$*.xlsx
+~$*.docx
+
+# Quarto internal stuff
+/.quarto/
+**/*.quarto_ipynb
+
+# Folders
 docs/
-
-# translation temp files
-po/*~
-
-# RStudio Connect folder
-rsconnect/
