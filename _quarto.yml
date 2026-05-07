@@ -1,0 +1,28 @@
+project:
+  type: website
+  execute-dir: project
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+execute: 
+  freeze: auto
+
+website:
+  title: "Global River Chemistry"
+  repo-url: https://github.com/global-river-chem/global-river-chem.github.io
+  repo-actions: [issue]
+  navbar:
+    background: primary
+    right: 
+      - icon: github
+        href: https://github.com/global-river-chem/global-river-chem.github.io
+  page-footer: 
+    center: "Copyright &copy; 2026, River Si Big Data Team"
+    background: secondary
+
+format:
+  html:
+    toc: true
+    link-external-newwindow: true
+    link-external-icon: false
