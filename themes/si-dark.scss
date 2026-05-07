@@ -1,17 +1,11 @@
 /*-- scss:defaults --*/
 
 // Colors
-/* From LWG branding */
-$lwg-1: #396d60;
-$lwg-2: #398293;
-$lwg-3: #7bb881;
-$lwg-4: #a9d043;
-
-/* core competency colors */
-$cc-1: #0096c7;
-$cc-2: #ff9500;
-$cc-3: #55a630;
-$cc-4: #7b2cbf;
+/* From https://coolors.co/palettes/trending */
+$col-1: #606c38;
+$col-2: #283618;
+$col-3: #dda15e;
+$col-4: #bc6c25;
 
 /* generally useful other colors */
 $url-blue: #00b4d8;
@@ -26,15 +20,15 @@ $font-size: 25px;
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 // Base document colors
-$navbar-bg: $lwg-1; // navbar
-$navbar-fg: $cream; // navbar foreground elements
-$navbar-hl: $lwg-4; // highlight color when hovering on a page
-$sidebar-bg: $lwg-3; // sidebar
+$navbar-bg: $col-1; // navbar
+$navbar-fg: $col-2; // navbar foreground elements
+$navbar-hl: $cream; // highlight color when hovering on a page
+$sidebar-bg: $cream; // sidebar
 $sidebar-fg: $charcoal; // sidebar foreground elements
 $body-bg: $charcoal; // page background
 $body-color: $cream; // page text
-$footer-bg: $lwg-2; // footer
-$footer-fg: $cream; // footer text
+$footer-bg: $col-3; // footer
+$footer-fg: $col-4; // footer text
 $link-color: $url-blue; // hyperlinks
 
 // Code text
@@ -46,12 +40,6 @@ $code-block-bg: $gray-2; // code block background color
 
 // Underline URLs
 .reveal .slide a { text-decoration: underline; }
-
-// Quick refs for core palette
-.cc-value { color: $cc-1; }
-.cc-skill { color: $cc-2; }
-.cc-steward { color: $cc-3; }
-.cc-result { color: $cc-4; }
 
 // Increase contrast of text in tab panel label
 .nav-tabs .nav-link.active { color: $cream; }
