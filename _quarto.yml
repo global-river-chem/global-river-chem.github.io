@@ -32,6 +32,6 @@ format:
     link-external-newwindow: true
     link-external-icon: false
     theme:
-      light: themes/lwg-light.scss
-      dark: themes/lwg-dark.scss
+      light: themes/si-light.scss
+      dark: themes/si-dark.scss
     mainfont: Open Sans
