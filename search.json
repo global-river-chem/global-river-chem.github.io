@@ -4,14 +4,14 @@
     "href": "products.html",
     "title": "Products",
     "section": "",
-    "text": "Check back later!"
+    "text": "This group has produced a number of useful products in many different venues. Explore the tabs below to browse group products by category.\n\nPapersFundingCode\n\n\nCarey, J.C. et al. River Silicon Concentrations and Exports are Predominantly Increasing Relative to Nitrogen and Phosphorus Across High Latitude Systems. [In revision at Global Biogeochemical Cycles] - \nBush, S. et al. Thinking Outside the Rocks: Subsurface Storage, Topography, and Land Cover Modulate Large-Scale Riverine Dissolved Silicon Dynamics. 2026. Geophysical Research Letters -  spatial &  manuscript\nJohnson, K. et al. Climate, Hydrology, and Nutrients Control the Seasonality of Si Concentrations in Rivers. 2024. Journal of Geophysical Research: Biogeosciences\nJohnson, K. et al. Establishing Fluvial Silicon Regimes and Their Stability Across the Northern Hemisphere. 2024. Limnology and Oceanography Letters\n\n\n\nLTER / NCEAS\nPowell Ctr.\n\n\n\nAs with any group that’s been working together for awhile, we’ve produced a lot of code to standardize, quality control, analyze, and graph the data presented in other products. The vast majority of our code lives in GitHub though some of it essentially exists for archival purposes () while other repositories are actively maintained ().\n\n github.com/global-river-chem\n\nGitHub Organization created in 2026 to be the primary home of all work from then on\n\n lsethna / NCEAS_SiSyn_CQ\n njlyon0 / lter_silica-high-latitude\n lter / lterwg-silica-data\n lter / lterwg-silica-spatial\n SwampThingPaul / SiSyn"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": " Under Construction",
+    "title": "River Si Big Data",
     "section": "",
-    "text": "Check back later!"
+    "text": "The River Si Big Data team has been working together since 2020 to synthesize river silica data from across the globe to ask and answer big questions about the drivers of silica deposition. Various facets of this effort have been funded by the Long Term Ecological Research (LTER) Network and the John Wesley Powell Center for Analysis and Synthesis.\nCheck out the links in the navbar at the top of this page to see some of our products as well as the invaluable team members associated with the project."
   },
   {
     "objectID": "people.html",
