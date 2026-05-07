@@ -1,5 +1,8 @@
 ---
-title: "{{< fa person-digging >}} Under Construction"
+title: "River Si Big Data"
 ---
 
-Check back later!
+The River Si Big Data team has been working together since 2020 to synthesize river silica data from across the globe to ask and answer big questions about the drivers of silica deposition. Various facets of this effort have been funded by the Long Term Ecological Research (LTER) Network and the John Wesley Powell Center for Analysis and Synthesis.
+
+Check out the links in the navbar at the top of this page to see some of our products as well as the _invaluable_ team members associated with the project.
+
