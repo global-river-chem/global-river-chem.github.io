@@ -2,6 +2,34 @@
 title: "Products"
 ---
 
-Check back later!
+This group has produced a number of useful products in many different venues. Explore the tabs below to browse group products by category.
 
+:::{.panel-tabset}
+### Papers
 
+Carey, J.C. _et al._ River Silicon Concentrations and Exports are Predominantly Increasing Relative to Nitrogen and Phosphorus Across High Latitude Systems. _\[In revision at Global Biogeochemical Cycles\]_ - [{{< fa brands github >}}](https://github.com/njlyon0/lter_silica-high-latitude)
+
+Bush, S. _et al._ [Thinking Outside the Rocks: Subsurface Storage, Topography, and Land Cover Modulate Large-Scale Riverine Dissolved Silicon Dynamics](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118853). **2026**. Geophysical Research Letters - [{{< fa brands github >}}](https://github.com/lter/lterwg-silica-spatial) ^spatial^ & [{{<fa brands github>}}](https://github.com/sidneyabush/silica-spatial-controls-grl) ^manuscript^
+
+Johnson, K. _et al._ [Climate, Hydrology, and Nutrients Control the Seasonality of Si Concentrations in Rivers](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JG008141). **2024**. Journal of Geophysical Research: Biogeosciences
+
+Johnson, K. _et al._ [Establishing Fluvial Silicon Regimes and Their Stability Across the Northern Hemisphere](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lol2.10372). **2024**. Limnology and Oceanography Letters
+
+### Funding
+
+- LTER / NCEAS
+- Powell Ctr.
+
+### Code
+
+As with any group that's been working together for awhile, we've produced _a lot_ of code to standardize, quality control, analyze, and graph the data presented in other products. The vast majority of our code lives in GitHub though some of it essentially exists for archival purposes ({{< fa box-archive >}}) while other repositories are actively maintained ({{< fa hammer >}}).
+
+- {{< fa star >}} [github.com/global-river-chem](https://github.com/global-river-chem)
+    - GitHub Organization created in 2026 to be the primary home of all work from then on
+- {{< fa hammer >}} [lsethna / NCEAS_SiSyn_CQ](https://github.com/lsethna/NCEAS_SiSyn_CQ)
+- {{< fa hammer >}} [njlyon0 / lter_silica-high-latitude](https://github.com/njlyon0/lter_silica-high-latitude)
+- {{< fa box-archive >}} [lter / lterwg-silica-data](https://github.com/lter/lterwg-silica-data)
+- {{< fa box-archive >}} [lter / lterwg-silica-spatial](https://github.com/lter/lterwg-silica-spatial)
+- {{< fa box-archive >}} [SwampThingPaul / SiSyn](https://github.com/SwampThingPaul/SiSyn)
+
+:::
