@@ -1,8 +1,22 @@
 [
   {
+    "objectID": "products.html",
+    "href": "products.html",
+    "title": "Products",
+    "section": "",
+    "text": "Check back later!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": " Under Construction",
+    "section": "",
+    "text": "Check back later!"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
     "section": "",
     "text": "Check back later!"
   }
